@@ -1,0 +1,91 @@
+body {
+    font-family: Garamond, serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://dlcdnrog.asus.com/rog/media/1659631197345.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+
+  #main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+  }
+
+  #title {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin-top: 40px;
+  }
+
+  #img-div {
+    display: block;
+    margin: 20px 0;
+  }
+
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+  }
+
+  #img-caption {
+    font-style: italic;
+    color: #555;
+  }
+
+  #tribute-info {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    margin-top: 20px;
+  }
+
+  .centered-heading {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  #timeline {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  #timeline li {
+    margin-bottom: 20px;
+  }
+
+  #timeline strong {
+    font-weight: bold;
+  }
+
+  #timeline a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #0074d9;
+    text-decoration: none;
+  }
+
+  #timeline a:hover {
+    text-decoration: underline;
+  }
+
+  a{
+    color:black;
+  }
+a:hover{
+    text-decoration: none;
+    color:red;
+
+}
